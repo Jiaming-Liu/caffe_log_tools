@@ -1,7 +1,8 @@
 #!/bin/bash
-# get_log_path.sh pid
-# get_log_path.sh pid YYYYMMDD
-# get_log_path.sh pid YYYYMMDD-HHMMSS
+# Usage: 
+#     get_log_path.sh pid
+#     get_log_path.sh pid YYYYMMDD
+#     get_log_path.sh pid YYYYMMDD-HHMMSS
 
 # It echoes the path of the log file with specific pthread id
 
